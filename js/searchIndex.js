@@ -356,45 +356,45 @@ Search.appendIndex(
             "summary": "",
             "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html"
         },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AFactura",
-            "name": "Factura",
-            "summary": "Factura\u0020\u0028Art.\u00206,\u00207.2\u0020y\u00207.3\u0020del\u0020R.D.\u00201619\/2012\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_Factura"
+            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AFACTURA",
+            "name": "FACTURA",
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_FACTURA"
         },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASimplificada",
-            "name": "Simplificada",
-            "summary": "Factura\u0020simplificada\u0020y\u0020facturas\u0020sin\u0020identificaci\u00F3n\u0020del\u0020destinatario\u0020\u0028Art.\u00206.1.D\u0020del\u0020R.D.\u00201619\/2012\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_Simplificada"
+            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASIMPLIFICADA",
+            "name": "SIMPLIFICADA",
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_SIMPLIFICADA"
         },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASustitutiva",
-            "name": "Sustitutiva",
-            "summary": "Factura\u0020emitida\u0020en\u0020sustituci\u00F3n\u0020de\u0020facturas\u0020simplificadas\u0020facturadas\u0020y\u0020declaradas",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_Sustitutiva"
+            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASUSTITUTIVA",
+            "name": "SUSTITUTIVA",
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_SUSTITUTIVA"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR1",
             "name": "R1",
-            "summary": "Factura\u0020rectificativa\u0020\u0028Art\u002080.1\u0020y\u002080.2\u0020y\u0020error\u0020fundado\u0020en\u0020derecho\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_R1"
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R1"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR2",
             "name": "R2",
-            "summary": "Factura\u0020rectificativa\u0020\u0028Art.\u002080.3\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_R2"
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R2"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR3",
             "name": "R3",
-            "summary": "Factura\u0020rectificativa\u0020\u0028Art.\u002080.4\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_R3"
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R3"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR4",
             "name": "R4",
-            "summary": "Factura\u0020rectificativa\u0020\u0028Resto\u0029",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_R4"
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R4"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR5",
             "name": "R5",
-            "summary": "Factura\u0020rectificativa\u0020en\u0020facturas\u0020simplificadas",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#enumcase_R5"
+            "summary": "",
+            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R5"
         },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\OperationType",
             "name": "OperationType",
