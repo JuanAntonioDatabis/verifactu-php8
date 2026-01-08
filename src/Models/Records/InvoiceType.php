@@ -1,9 +1,6 @@
 <?php
 namespace juanantoniodatabis\Verifactu\Models\Records;
 
-<?php
-namespace juanantoniodatabis\Verifactu\Models\Records;
-
 class InvoiceType {
     const Factura = 'F1'; // Factura (Art. 6, 7.2 y 7.3 del R.D. 1619/2012)
     const Simplificada = 'F2'; // Factura simplificada y facturas sin identificación del destinatario (Art. 6.1.D del R.D. 1619/2012)
