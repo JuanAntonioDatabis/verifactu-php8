@@ -351,51 +351,6 @@ Search.appendIndex(
             "summary": "Fecha\u0020de\u0020expedici\u00F3n\u0020de\u0020la\u0020factura",
             "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceIdentifier.html#property_issueDate"
         },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType",
-            "name": "InvoiceType",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AFACTURA",
-            "name": "FACTURA",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_FACTURA"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASIMPLIFICADA",
-            "name": "SIMPLIFICADA",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_SIMPLIFICADA"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003ASUSTITUTIVA",
-            "name": "SUSTITUTIVA",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_SUSTITUTIVA"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR1",
-            "name": "R1",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R1"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR2",
-            "name": "R2",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R2"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR3",
-            "name": "R3",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R3"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR4",
-            "name": "R4",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R4"
-        },                {
-            "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\InvoiceType\u003A\u003AR5",
-            "name": "R5",
-            "summary": "",
-            "url": "classes/juanantoniodatabis-Verifactu-Models-Records-InvoiceType.html#constant_R5"
-        },                {
             "fqsen": "\\juanantoniodatabis\\Verifactu\\Models\\Records\\OperationType",
             "name": "OperationType",
             "summary": "",
