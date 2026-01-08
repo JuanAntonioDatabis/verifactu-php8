@@ -1,5 +1,6 @@
 # Verifactu-PHP
 
+Forked from: https://github.com/josemmo/Verifactu-PHP
 Verifactu-PHP es una librería sencilla escrita en PHP que permite generar registros de facturación según el sistema [VERI*FACTU](https://sede.agenciatributaria.gob.es/Sede/iva/sistemas-informaticos-facturacion-verifactu.html) y posteriormente enviarlos telemáticamente a la Agencia Tributaria (AEAT).
 
 Este fork integra la libreria para una versión anterior de PHP.
