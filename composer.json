@@ -1,6 +1,6 @@
 {
     "name": "juanantoniodatabis/verifactu-php-8",
-    "description": "Librería para la implementación del sistema VERI*FACTU de la AEAT española php 7.4",
+    "description": "Librería para la implementación del sistema VERI*FACTU de la AEAT española php 8.0",
     "keywords": ["verifactu", "aeat", "sii"],
     "license": "MIT",
     "homepage": "https://github.com/JuanAntonioDatabis/Verifactu-PHP",
@@ -28,7 +28,7 @@
         }
     },
     "require": {
-        "php": ">=8",
+        "php": ">=8.0",
         "guzzlehttp/guzzle": "^7.10",
         "josemmo/uxml": "^0.2.0",
         "symfony/validator": "^5.4"
@@ -41,9 +41,10 @@
         }
     },
     "require-dev": {
-        "phpdocumentor/shim": "^3.3",
-        "phpstan/phpstan": "^1.10",
-        "phpstan/phpstan-strict-rules": "^1.6",
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.6|^10.5",
+        "phpstan/phpstan": "^1.11",
+        "laravel/pint": "^1.0",
+        "phpdocumentor/shim": "^3.9",
+        "phpstan/phpstan-strict-rules": "^1.0"
     }
 }
