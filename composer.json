@@ -1,0 +1,49 @@
+{
+    "name": "juanantoniodatabis/verifactu-php-8",
+    "description": "Librería para la implementación del sistema VERI*FACTU de la AEAT española php 7.4",
+    "keywords": ["verifactu", "aeat", "sii"],
+    "license": "MIT",
+    "homepage": "https://github.com/JuanAntonioDatabis/Verifactu-PHP",
+    "authors": [
+        {
+            "name": "JuanAntonioDatabis",
+            "email": "juanantonio@databis.net",
+            "homepage": "https://github.com/JuanAntonioDatabis"
+        }
+    ],
+    "scripts": {
+        "docs": "php vendor/bin/phpdoc",
+        "lint": "pint",
+        "stan": "composer validate --strict && phpstan analyse --memory-limit=1G",
+        "test": "phpunit --testdox --colors=always tests"
+    },
+    "autoload": {
+        "psr-4": {
+            "juanantoniodatabis\\Verifactu\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "juanantoniodatabis\\Verifactu\\Tests\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=8",
+        "guzzlehttp/guzzle": "^7.10",
+        "josemmo/uxml": "^0.2.0",
+        "symfony/validator": "^5.4"
+    },
+    "config": {
+        "process-timeout": 0,
+        "sort-packages": true,
+        "allow-plugins": {
+            "phpdocumentor/shim": true
+        }
+    },
+    "require-dev": {
+        "phpdocumentor/shim": "^3.3",
+        "phpstan/phpstan": "^1.10",
+        "phpstan/phpstan-strict-rules": "^1.6",
+        "phpunit/phpunit": "^9.5"
+    }
+}
